@@ -1,8 +1,9 @@
 README.md
 setup.py
-Assemble-AI/File_upload.py
-Assemble-AI/__init__.py
+AssembleAI/File_upload.py
+AssembleAI/__init__.py
 AssembleAI.egg-info/PKG-INFO
 AssembleAI.egg-info/SOURCES.txt
 AssembleAI.egg-info/dependency_links.txt
+AssembleAI.egg-info/requires.txt
 AssembleAI.egg-info/top_level.txt

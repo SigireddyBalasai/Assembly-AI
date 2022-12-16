@@ -12,7 +12,7 @@ class Server_Error(Exception):
     def __init__(self):
         self.args = {"There is the error with the developer"}
 
-class Failed_Transcription_Jobs(Exception):
-    def __init__(self,args):
-        self.args = {args['error']}
 
+class Failed_Transcription_Jobs(Exception):
+    def __init__(self, args):
+        self.args = {args['error']}

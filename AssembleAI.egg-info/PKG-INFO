@@ -1,3 +1,18 @@
 Metadata-Version: 2.1
 Name: AssembleAI
-Version: 0.1.0
+Version: 0.0.0.0.20
+Summary: Assemble AI
+Author: SigireddyBalasai
+Author-email: sigireddybalasai@gmail.com
+License: MIT
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+
+# Assembly-AI
+this is a wrapper for assembly ai 
